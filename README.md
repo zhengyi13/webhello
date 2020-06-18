@@ -2,7 +2,7 @@
 
 ## Source Code
 
-`fuck.go` simply fires up a webserver, and echoes back the parameter you pass on
+`hello.go` simply fires up a webserver, and echoes back the parameter you pass on
 the request's URL as a name to say hello to:
 
 GET http://thisapp.as-deployed.somewhere/Joe
